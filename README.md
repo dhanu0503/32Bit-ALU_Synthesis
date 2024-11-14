@@ -1,4 +1,4 @@
-## 32Bit-ALU_Synthesis
+## Ex No: 05  Implementation-of-32Bit-ALU-Synthesis-using-Cadence-EDA-Tools
 
 ### Aim:
 
@@ -55,10 +55,7 @@ used.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 #### Power Report:
