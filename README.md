@@ -9,13 +9,13 @@ Synthesize 32 Bit ALU design using Constraints and analyse area and Power report
 - Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 - Synthesis: Genus
 
-### Step 1: Getting Started
+#### Step 1: Getting Started
 
 - Synthesis requires three files as follows,
     + Liberty Files (.lib)
     + Verilog/VHDL Files (.v or .vhdl or .vhd)
 
-### Step 2 : Performing Synthesis
+#### Step 2 : Performing Synthesis
 
 The Liberty files are present in the library path,
 
