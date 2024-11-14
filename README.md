@@ -8,6 +8,8 @@ Synthesize 32 Bit ALU design using Constraints and analyse area and Power report
 
 - Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 - Synthesis: Genus
+  
+### Procedure:
 
 #### Step 1: Getting Started
 
