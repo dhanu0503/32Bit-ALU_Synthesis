@@ -28,6 +28,18 @@ used.
     + The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
     + Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #### Synthesis RTL Schematic :
 
 ![Screenshot (42)](https://github.com/user-attachments/assets/de9d2cfa-6d57-4063-b82d-7d4988bf7d09)
